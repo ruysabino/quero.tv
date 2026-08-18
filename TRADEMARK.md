@@ -1,42 +1,46 @@
-# Trademark Notice
+# Trademark Notice — QueroTV
 
-**IPTVnator** (the name) and the IPTVnator logo / icon artwork are trademarks of the IPTVnator project owner ([4gray](https://github.com/4gray)). They are used as unregistered (common-law) trademarks to identify this project and its official builds.
+## Relationship to IPTVnator
 
-## What the MIT License Covers
+**IPTVnator** and the IPTVnator logo are unregistered (common-law)
+trademarks of the IPTVnator project owner
+([4gray](https://github.com/4gray)). The upstream trademark policy allows
+forks but explicitly forbids reusing the IPTVnator name, any confusingly
+similar variant, or the IPTVnator logo/icon artwork as the identity of a
+fork.
 
-The [MIT License](./LICENSE.md) in this repository grants you broad rights to **use, copy, modify, and distribute the source code** of IPTVnator, including for commercial purposes.
+This project complies with that policy:
 
-## What the MIT License Does **Not** Cover
+1. The fork is named **QueroTV** — not "IPTVnator", "IPTVnator BR",
+   "iptvnator.br" or any similar variant.
+2. QueroTV ships its **own icon and artwork**. No IPTVnator logo, icon or
+   promotional image is used to identify this fork.
+3. The MIT copyright notice of the upstream project is preserved in
+   `LICENSE.md`.
+4. References to IPTVnator in this repository are purely nominative and
+   factual: *QueroTV is a fork of IPTVnator*. No affiliation, endorsement
+   or sponsorship is claimed or implied.
 
-The MIT License grants rights to the **software**. It does **not** grant any rights to the project's branding. In particular, it does **not** grant you the right to:
+## QueroTV branding
 
-- Use the name **"IPTVnator"** (or any confusingly similar variant such as "IPTV-Nator", "IPTVNator", "IPTV Nator", etc.) as the name of your fork, redistribution, app-store listing, paid product, or service.
-- Use the IPTVnator **logo, icon, or artwork** to identify your fork or any other product.
-- Imply, suggest, or otherwise lead users to believe that your fork or product is the official IPTVnator, is endorsed by the IPTVnator project, or is affiliated with it in any way.
+The **QueroTV** name and the QueroTV icon/artwork identify this fork and
+its official builds. The MIT License covers the source code, not the
+branding. If you fork QueroTV, please pick your own name and icon — the
+same courtesy we owe upstream.
 
-This is consistent with how MIT-licensed projects such as Rust, Node.js, Mozilla, and Kubernetes treat their names and logos: the **code** is open, the **brand** is not.
+Nominative references ("based on QueroTV", "a fork of QueroTV") are always
+fine.
 
-## What You **Can** Do With a Fork
+## Content and third-party services
 
-You are very welcome to fork and modify IPTVnator. When you redistribute it publicly (GitHub releases, app stores, paid SaaS, bundled hardware, etc.), please:
+QueroTV distributes no channel lists, playlists, portals or media. Names
+such as *Xtream Codes*, *Stalker*, *TMDB*, *VLC* and *mpv* are trademarks
+of their respective owners and are used only to describe technical
+compatibility.
 
-1. **Choose your own name** for the fork. It must not be "IPTVnator" or a confusingly similar variant.
-2. **Use your own logo / icon.** Do not reuse the IPTVnator logo, icon, or other artwork files from this repository as the identity of your fork.
-3. **Keep the MIT copyright notice** as the license requires.
-4. You may, factually, state that your project is "based on IPTVnator" or "a fork of IPTVnator" — this kind of nominative reference is fine and expected.
+## Contact
 
-## Reporting Misuse
-
-If you see a project, app store listing, or service that uses the IPTVnator name or logo in a way that violates this notice — especially on app stores where it can mislead users — please:
-
-- Open an issue on this repository, **or**
-- Contact the project owner directly via the contact details on the [GitHub profile](https://github.com/4gray).
-
-Apple App Store and Google Play both provide first-party channels for trademark and copycat-app disputes:
-
-- Apple — [App Store Content Dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/)
-- Google — [Removing Content From Google (Trademark)](https://support.google.com/legal/answer/3110420)
-
-## Questions
-
-If you are unsure whether a planned use of the IPTVnator name or logo is acceptable, please **ask before shipping**. Opening an issue is the easiest way to get a fast answer.
+Questions about QueroTV branding: open an issue at
+<https://github.com/ruysabino/quero.tv>.
+Questions or complaints about IPTVnator branding should go to the upstream
+project.
